@@ -1,0 +1,64 @@
+_Diagrama de estados_
+
+Empleado / Empresa
+    No registrado
+    Registrado
+    Verificado
+    Autentificado
+    Bloqueado
+    Eliminado
+
+Oferta de empleo (Empresa)
+    Borrador
+    Publicada
+    Pausada
+    Cerrada
+    Archivada
+
+Candidatura
+    Enviada
+    En revisión
+    Preseleccionada
+    Entrevista
+    Prueba técnica
+    Aceptada
+    Rechazada
+    Contratado
+
+Perfil del Empleado
+    Incompleto
+    Completo
+    Verificado
+    Actualizado
+
+Verificación de documentos
+    Pendiente
+    En revisión
+    Aprobado
+    Rechazado
+
+Verificación de perfil
+    Pendiente
+    En revisión
+    Verificado
+    Rechazado
+
+Chat
+    Sin conversación
+    Conversación iniciada
+    Mensajes pendientes
+    Conversación activa
+    Conversación Archivada
+
+Notificación
+    Generada
+    Enviada
+    Recibida
+    Leída
+
+Asistente IA
+    Esperando solicitud
+    Analizando perfil
+    Generando recomendaciones
+    Finalizado
+
