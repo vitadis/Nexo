@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <!-- Fondo general de la pantalla y las cajas -->
+    <color name="color_background">#FFFFFF</color>
+
+    <!-- Texto principal (títulos, labels, inputs) -->
+    <color name="color_text_primary">#000000</color>
+
+    <!-- Texto secundario (hints, placeholders) -->
+    <color name="color_text_secondary">#666666</color>
+
+    <!-- Bordes de inputs y checkbox en estado normal -->
+    <color name="color_border">#000000</color>
+
+    <!-- Color principal / marca: usado en botón y enlaces -->
+    <color name="color_primary">#11D6FF</color>
+
+    <!-- Texto sobre el botón principal -->
+    <color name="color_button_text">#FFFFFF</color>
+
+    <!-- Reservado para el estado de error (lo gestionarás por código) -->
+    <color name="color_error">#FF0000</color>
+
 </resources>
