@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="bienvenido">Welcome:</string>
+    <string name="correo_electronico">Email address:</string>
+    <string name="ingresa_correo">Enter your email</string>
+    <string name="contraseña">Password:</string>
+    <string name="ingresa_contraseña">Enter your password</string>
+    <string name="recordar_contraseña">Remember me for 30 days</string>
+    <string name="olvide_contraseña">Forgot my password.</string>
+    <string name="login">Sign in</string>
+    <string name="resistrarse">I don\'t have an account? Register</string>
+
+    <!-- Bottom nav menu company/employee -->
+    <string name="perfil">Profile</string>
+    <string name="buscar">Search</string>
+    <string name="proceso">Applications</string>
+    <string name="chat" translatable="false">Chat</string>
+    <string name="ajustes">Settings</string>
+
+    <string name="estadisticas">Statistics</string>
+    <string name="candidatos">Candidates</string>
+
+</resources>

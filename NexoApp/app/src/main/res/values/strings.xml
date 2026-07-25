@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">NexoApp</string>
+    <string name="app_name" translatable="false">NexoApp</string>
+
+    <!--Login-->
+    <string name="bienvenido">Bienvenido:</string>
+    <string name="correo_electronico">Correo electronico:</string>
+    <string name="ingresa_correo">Ingresa tu correo</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="ingresa_contraseña">Ingresa tu contraseña</string>
+    <string name="recordar_contraseña">Recordar por 30 días</string>
+    <string name="olvide_contraseña">Olvide mi contraseña.</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="resistrarse">¿No tengo una cuenta? Registrarse</string>
+
+    <!--bottom nav menu empresa/empleado-->
+    <string name="perfil">perfil</string>
+    <string name="buscar">buscar</string>
+    <string name="proceso">proceso</string>
+    <string name="chat" translatable="false">chat</string>
+    <string name="ajustes">ajustes</string>
+
+    <string name="estadisticas">estadisticas</string>
+    <string name="candidatos">candidatos</string>
 </resources>

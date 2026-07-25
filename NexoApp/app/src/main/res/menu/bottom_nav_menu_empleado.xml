@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/perfil"/>
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_gestionar_busquedas"
+        android:title="@string/buscar"/>
+
+    <item
+        android:id="@+id/processFragment"
+        android:icon="@drawable/ic_gestionar_candidatura"
+        android:title="@string/proceso"/>
+
+    <item
+        android:id="@+id/chatFragment"
+        android:icon="@drawable/ic_chat"
+        android:title="@string/chat"/>
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/ajustes"/>
+
+</menu>
