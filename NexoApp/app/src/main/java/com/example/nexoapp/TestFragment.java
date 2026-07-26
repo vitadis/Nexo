@@ -21,6 +21,6 @@ public class TestFragment extends Fragment {
                              @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
 
-        return inflater.inflate(R.layout.login_layout, container, false);
+        return inflater.inflate(R.layout.activity_login, container, false);
     }
 }

@@ -11,30 +11,30 @@
         android:id="@+id/profileFragment"
         android:name="com.example.nexoapp.TestFragment"
         android:label="Perfil"
-        tools:layout="@layout/login_layout"/>
+        tools:layout="@layout/activity_login"/>
 
     <fragment
         android:id="@+id/searchFragment"
         android:name="com.example.nexoapp.TestFragment"
         android:label="Buscar"
-        tools:layout="@layout/login_layout"/>
+        tools:layout="@layout/activity_login"/>
 
     <fragment
         android:id="@+id/processFragment"
         android:name="com.example.nexoapp.TestFragment"
         android:label="Proceso"
-        tools:layout="@layout/login_layout"/>
+        tools:layout="@layout/activity_login"/>
 
     <fragment
         android:id="@+id/chatFragment"
         android:name="com.example.nexoapp.TestFragment"
         android:label="Chat"
-        tools:layout="@layout/login_layout"/>
+        tools:layout="@layout/activity_login"/>
 
     <fragment
         android:id="@+id/settingsFragment"
         android:name="com.example.nexoapp.TestFragment"
         android:label="Ajustes"
-        tools:layout="@layout/login_layout"/>
+        tools:layout="@layout/activity_login"/>
 
 </navigation>
